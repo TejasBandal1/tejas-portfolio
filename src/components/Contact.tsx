@@ -125,7 +125,7 @@ const Contact: React.FC = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      url: "https://www.linkedin.com/in/tejas-bandal-b23525282",
+      url: "https://www.linkedin.com/in/tejas-bandal-b23525282/",
       color: "text-foreground hover:text-neon-purple"
     },
     {
@@ -212,7 +212,7 @@ const Contact: React.FC = () => {
                       required
                       rows={5}
                       className="w-full px-4 py-3 pl-12 bg-muted/30 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-electric-blue/50 focus:border-electric-blue transition-all duration-300 resize-none"
-                      placeholder="Tell me about your project or opportunity..."
+                      placeholder="Drop Me a Message..."
                     />
                     <MessageSquare className="absolute left-4 top-4 text-muted-foreground" size={18} />
                   </div>

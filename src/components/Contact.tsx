@@ -119,13 +119,13 @@ const Contact: React.FC = () => {
     {
       icon: Github,
       label: "GitHub",
-      url: "https://github.com",
+      url: "https://github.com/TejasBandal1",
       color: "text-foreground hover:text-electric-blue"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      url: "https://linkedin.com",
+      url: "www.linkedin.com/in/tejas-bandal-b23525282",
       color: "text-foreground hover:text-neon-purple"
     },
     {

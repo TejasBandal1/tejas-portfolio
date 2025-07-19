@@ -131,7 +131,7 @@ const Contact: React.FC = () => {
     {
       icon: Phone,
       label: "Phone",
-      url: "tel:+91",
+      url: "tel:+91 8624891891",
       color: "text-foreground hover:text-cyber-cyan"
     }
   ];

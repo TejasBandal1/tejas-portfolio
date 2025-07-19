@@ -125,7 +125,7 @@ const Contact: React.FC = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      url: "www.linkedin.com/in/tejas-bandal-b23525282",
+      url: "https://www.linkedin.com/in/tejas-bandal-b23525282",
       color: "text-foreground hover:text-neon-purple"
     },
     {
